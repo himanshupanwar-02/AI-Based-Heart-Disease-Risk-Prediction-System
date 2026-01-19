@@ -2,7 +2,7 @@
 Heart disease is one of the leading causes of death worldwide, and early detection plays a crucial role in preventing severe health outcomes. This project, AI-Based Heart Disease Risk Prediction System, aims to predict the risk of heart disease using machine learning techniques and provide an easy-to-use web interface for users.
 # AI-Based Heart Disease Risk Prediction System 
 
-## 📌 Project Overview
+##  Project Overview
 This project predicts the risk of heart disease using machine learning and provides an interactive web application built with Streamlit. Users can enter basic medical information and instantly receive a heart disease risk prediction.
 
 ---
@@ -35,10 +35,10 @@ This project predicts the risk of heart disease using machine learning and provi
 ---
 
 ## Project Structure
-├── heartattack.ipynb # Model training and analysis
-├── app.py # Streamlit web application
-├── heart_attack_modal.pkl # Trained ML model
-├── scaler.pkl # Scaler object
-├── columns.pkl # Expected feature columns
-└── README.md # Project documentation
+1. heartattack.ipynb # Model training and analysis
+2. app.py # Streamlit web application
+3. heart_attack_modal.pkl # Trained ML model
+4. scaler.pkl # Scaler object
+5. columns.pkl # Expected feature columns
+6. README.md # Project documentation
 
