@@ -35,3 +35,10 @@ This project predicts the risk of heart disease using machine learning and provi
 ---
 
 ## Project Structure
+├── heartattack.ipynb # Model training and analysis
+├── app.py # Streamlit web application
+├── heart_attack_modal.pkl # Trained ML model
+├── scaler.pkl # Scaler object
+├── columns.pkl # Expected feature columns
+└── README.md # Project documentation
+
