@@ -1,4 +1,5 @@
 # AI-Based Heart Disease Risk Prediction System 
+Heart disease is one of the leading causes of death worldwide, and early detection plays a crucial role in preventing severe health outcomes. This project, AI-Based Heart Disease Risk Prediction System, aims to predict the risk of heart disease using machine learning techniques and provide an easy-to-use web interface for users.
 
 ##  Project Overview
 This project predicts the risk of heart disease using machine learning and provides an interactive web application built with Streamlit. Users can enter basic medical information and instantly receive a heart disease risk prediction.
